@@ -14,7 +14,7 @@ class App < Sinatra::Base
 # <<<<<<< HEAD
     erb :result
 # =======
-    erb :result
+    
 # >>>>>>> daae807a36497c9e1ac28b560c8ce7c33bc7e037
 
   end
